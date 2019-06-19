@@ -1,0 +1,4375 @@
+fileFormatVersion: 2
+guid: 5500fec17d0a7c5429d2caa4ff986da6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1894710709631004663
+    second: claire_ludendorff_0
+  - first:
+      213: 4362541135930808537
+    second: claire_ludendorff_1
+  - first:
+      213: -7714129595642852884
+    second: claire_ludendorff_2
+  - first:
+      213: -5779101901266589221
+    second: claire_ludendorff_3
+  - first:
+      213: 2298443146085456585
+    second: claire_ludendorff_4
+  - first:
+      213: -1276028999262754290
+    second: claire_ludendorff_5
+  - first:
+      213: -3069265634957932290
+    second: claire_ludendorff_6
+  - first:
+      213: 4480558336567910101
+    second: claire_ludendorff_7
+  - first:
+      213: -8173226237111788245
+    second: claire_ludendorff_8
+  - first:
+      213: -3090353198599319422
+    second: claire_ludendorff_9
+  - first:
+      213: -4724400302326121528
+    second: claire_ludendorff_10
+  - first:
+      213: 1026945590009140806
+    second: claire_ludendorff_11
+  - first:
+      213: 425761113686575103
+    second: claire_ludendorff_12
+  - first:
+      213: 3249336867372996939
+    second: claire_ludendorff_13
+  - first:
+      213: -8492519712592631101
+    second: claire_ludendorff_14
+  - first:
+      213: 8171480282791257964
+    second: claire_ludendorff_15
+  - first:
+      213: -2785591544487707480
+    second: claire_ludendorff_16
+  - first:
+      213: 8576789256506343961
+    second: claire_ludendorff_17
+  - first:
+      213: -2516890934090766115
+    second: claire_ludendorff_18
+  - first:
+      213: -628678678909884549
+    second: claire_ludendorff_19
+  - first:
+      213: 7682316269142733331
+    second: claire_ludendorff_20
+  - first:
+      213: -6009669824450305091
+    second: claire_ludendorff_21
+  - first:
+      213: -5942912964714615217
+    second: claire_ludendorff_22
+  - first:
+      213: -4002985097215728624
+    second: claire_ludendorff_23
+  - first:
+      213: 6409669274729605
+    second: claire_ludendorff_24
+  - first:
+      213: 1897136161502294599
+    second: claire_ludendorff_25
+  - first:
+      213: 4988840394252593606
+    second: claire_ludendorff_26
+  - first:
+      213: -8555987875632628695
+    second: claire_ludendorff_27
+  - first:
+      213: 7751597654176788320
+    second: claire_ludendorff_28
+  - first:
+      213: -211809756022243830
+    second: claire_ludendorff_29
+  - first:
+      213: -2139681920238737917
+    second: claire_ludendorff_30
+  - first:
+      213: 7641917395574732812
+    second: claire_ludendorff_31
+  - first:
+      213: 8771069960400715238
+    second: claire_ludendorff_32
+  - first:
+      213: 5069440103626455043
+    second: claire_ludendorff_33
+  - first:
+      213: -2640915618331710764
+    second: claire_ludendorff_34
+  - first:
+      213: -7718474507259233933
+    second: claire_ludendorff_35
+  - first:
+      213: -9034794394721691724
+    second: claire_ludendorff_36
+  - first:
+      213: 4286272078654888042
+    second: claire_ludendorff_37
+  - first:
+      213: -2178148537874669102
+    second: claire_ludendorff_38
+  - first:
+      213: -625481240862489203
+    second: claire_ludendorff_39
+  - first:
+      213: 6269090287907945193
+    second: claire_ludendorff_40
+  - first:
+      213: 6564316505905025818
+    second: claire_ludendorff_41
+  - first:
+      213: 4961125700360501524
+    second: claire_ludendorff_42
+  - first:
+      213: -319755567192032117
+    second: claire_ludendorff_43
+  - first:
+      213: -3467872155238635633
+    second: claire_ludendorff_44
+  - first:
+      213: -8498136791565541698
+    second: claire_ludendorff_45
+  - first:
+      213: 4872838820475302155
+    second: claire_ludendorff_46
+  - first:
+      213: -1439380206880603707
+    second: claire_ludendorff_47
+  - first:
+      213: -1225232262585176710
+    second: claire_ludendorff_48
+  - first:
+      213: 7167197897886160521
+    second: claire_ludendorff_49
+  - first:
+      213: -2124831063959315761
+    second: claire_ludendorff_50
+  - first:
+      213: 7708633366203515164
+    second: claire_ludendorff_51
+  - first:
+      213: 153153756377209715
+    second: claire_ludendorff_52
+  - first:
+      213: 1479866101038031672
+    second: claire_ludendorff_53
+  - first:
+      213: 4438627976728017219
+    second: claire_ludendorff_54
+  - first:
+      213: -7450847682986138026
+    second: claire_ludendorff_55
+  - first:
+      213: -8436791106698012854
+    second: claire_ludendorff_56
+  - first:
+      213: 2721303290891165401
+    second: claire_ludendorff_57
+  - first:
+      213: -5380232129316893748
+    second: claire_ludendorff_58
+  - first:
+      213: 3449930767655818833
+    second: claire_ludendorff_59
+  - first:
+      213: -8075081603863547106
+    second: claire_ludendorff_60
+  - first:
+      213: 7104561534462110562
+    second: claire_ludendorff_61
+  - first:
+      213: -5807962482141948834
+    second: claire_ludendorff_62
+  - first:
+      213: 72425845571424099
+    second: claire_ludendorff_63
+  - first:
+      213: 8116316774369377200
+    second: claire_ludendorff_64
+  - first:
+      213: 5530743274444870072
+    second: claire_ludendorff_65
+  - first:
+      213: -387231432882221387
+    second: claire_ludendorff_66
+  - first:
+      213: -3844550352749233767
+    second: claire_ludendorff_67
+  - first:
+      213: 1196942976044776020
+    second: claire_ludendorff_68
+  - first:
+      213: 2384418645044154472
+    second: claire_ludendorff_69
+  - first:
+      213: 3961721963193510466
+    second: claire_ludendorff_70
+  - first:
+      213: 5208813688712411560
+    second: claire_ludendorff_71
+  - first:
+      213: -3792975644903387926
+    second: claire_ludendorff_72
+  - first:
+      213: -6100741310732077333
+    second: claire_ludendorff_73
+  - first:
+      213: 5703523191314429788
+    second: claire_ludendorff_74
+  - first:
+      213: 2668724916870018615
+    second: claire_ludendorff_75
+  - first:
+      213: 6179057562999687591
+    second: claire_ludendorff_76
+  - first:
+      213: 5584076731934988159
+    second: claire_ludendorff_77
+  - first:
+      213: -3307147878810625962
+    second: claire_ludendorff_78
+  - first:
+      213: -2183881148834605125
+    second: claire_ludendorff_79
+  - first:
+      213: -4959311739770384336
+    second: claire_ludendorff_80
+  - first:
+      213: -3195711711895344086
+    second: claire_ludendorff_81
+  - first:
+      213: 1288341471149660935
+    second: claire_ludendorff_82
+  - first:
+      213: -4113377157181571913
+    second: claire_ludendorff_83
+  - first:
+      213: 4445826816778542388
+    second: claire_ludendorff_84
+  - first:
+      213: 2051316163648072958
+    second: claire_ludendorff_85
+  - first:
+      213: -7357395861813354948
+    second: claire_ludendorff_86
+  - first:
+      213: 5330490749354674993
+    second: claire_ludendorff_87
+  - first:
+      213: 2906973689914498414
+    second: claire_ludendorff_88
+  - first:
+      213: 3610379654618350575
+    second: claire_ludendorff_89
+  - first:
+      213: 2013261317434908665
+    second: claire_ludendorff_90
+  - first:
+      213: -5312898218913301421
+    second: claire_ludendorff_91
+  - first:
+      213: 3985580800389772146
+    second: claire_ludendorff_92
+  - first:
+      213: 5869813820947789861
+    second: claire_ludendorff_93
+  - first:
+      213: -5028920633613303212
+    second: claire_ludendorff_94
+  - first:
+      213: -3322773842642385082
+    second: claire_ludendorff_95
+  - first:
+      213: 7854445978819675137
+    second: claire_ludendorff_96
+  - first:
+      213: 5517429072449976493
+    second: claire_ludendorff_97
+  - first:
+      213: 2662756717145367627
+    second: claire_ludendorff_98
+  - first:
+      213: 1118935122250206596
+    second: claire_ludendorff_99
+  - first:
+      213: -1007527870228753528
+    second: claire_ludendorff_100
+  - first:
+      213: -6062130730736937676
+    second: claire_ludendorff_101
+  - first:
+      213: -3146701253998773045
+    second: claire_ludendorff_102
+  - first:
+      213: 6260503135647496849
+    second: claire_ludendorff_103
+  - first:
+      213: -4564701469289180751
+    second: claire_ludendorff_104
+  - first:
+      213: 7223919406262129776
+    second: claire_ludendorff_105
+  - first:
+      213: 5451836234838916964
+    second: claire_ludendorff_106
+  - first:
+      213: -2354186553205712263
+    second: claire_ludendorff_107
+  - first:
+      213: 7679384025143599620
+    second: claire_ludendorff_108
+  - first:
+      213: 3926815836565165988
+    second: claire_ludendorff_109
+  - first:
+      213: 157632625097146277
+    second: claire_ludendorff_110
+  - first:
+      213: -921601007994257391
+    second: claire_ludendorff_111
+  - first:
+      213: 6991643737004203945
+    second: claire_ludendorff_112
+  - first:
+      213: -9200577556899291657
+    second: claire_ludendorff_113
+  - first:
+      213: 3410634707992861525
+    second: claire_ludendorff_114
+  - first:
+      213: 4935862035163784803
+    second: claire_ludendorff_115
+  - first:
+      213: -5464580886495543866
+    second: claire_ludendorff_116
+  - first:
+      213: 2025189940711087856
+    second: claire_ludendorff_117
+  - first:
+      213: -7952714559204976002
+    second: claire_ludendorff_118
+  - first:
+      213: -8029829381532044952
+    second: claire_ludendorff_119
+  - first:
+      213: 4084808162448255319
+    second: claire_ludendorff_120
+  - first:
+      213: -673451028466927973
+    second: claire_ludendorff_121
+  - first:
+      213: 5584263690718824818
+    second: claire_ludendorff_122
+  - first:
+      213: 1156760997485072681
+    second: claire_ludendorff_123
+  - first:
+      213: -2769625636306247149
+    second: claire_ludendorff_124
+  - first:
+      213: 136036812377964159
+    second: claire_ludendorff_125
+  - first:
+      213: -3064585312792696684
+    second: claire_ludendorff_126
+  - first:
+      213: -2757710641879862383
+    second: claire_ludendorff_127
+  - first:
+      213: 2574915325462454539
+    second: claire_ludendorff_128
+  - first:
+      213: -3563466338868839419
+    second: claire_ludendorff_129
+  - first:
+      213: -7058516815177049233
+    second: claire_ludendorff_130
+  - first:
+      213: 2841498172933116556
+    second: claire_ludendorff_131
+  - first:
+      213: 2473713763364291612
+    second: claire_ludendorff_132
+  - first:
+      213: 476863719722424806
+    second: claire_ludendorff_133
+  - first:
+      213: -2717537711480441793
+    second: claire_ludendorff_134
+  - first:
+      213: 8519348212725097851
+    second: claire_ludendorff_135
+  - first:
+      213: 9173810849182758585
+    second: claire_ludendorff_136
+  - first:
+      213: -4872321759788938328
+    second: claire_ludendorff_137
+  - first:
+      213: -8981423893689562446
+    second: claire_ludendorff_138
+  - first:
+      213: 4541400638709094305
+    second: claire_ludendorff_139
+  - first:
+      213: 1512240633710939144
+    second: claire_ludendorff_140
+  - first:
+      213: 5986899783837963494
+    second: claire_ludendorff_141
+  - first:
+      213: 8409871272632214236
+    second: claire_ludendorff_142
+  - first:
+      213: -7552173706327528352
+    second: claire_ludendorff_143
+  - first:
+      213: -3699301413602523055
+    second: claire_ludendorff_144
+  - first:
+      213: 6772256289104889096
+    second: claire_ludendorff_145
+  - first:
+      213: 1556341729112243704
+    second: claire_ludendorff_146
+  - first:
+      213: -5290549603564189563
+    second: claire_ludendorff_147
+  - first:
+      213: -6394074519520642300
+    second: claire_ludendorff_148
+  - first:
+      213: -6664312736275578523
+    second: claire_ludendorff_149
+  - first:
+      213: -9141837340740409053
+    second: claire_ludendorff_150
+  - first:
+      213: -363616329252673801
+    second: claire_ludendorff_151
+  - first:
+      213: 5993361219087112331
+    second: claire_ludendorff_152
+  - first:
+      213: 7651070319653262029
+    second: claire_ludendorff_153
+  - first:
+      213: 1773213177375823739
+    second: claire_ludendorff_154
+  - first:
+      213: -2492162412877730341
+    second: claire_ludendorff_155
+  - first:
+      213: -1141277913918718105
+    second: claire_ludendorff_156
+  - first:
+      213: 7115527715202967676
+    second: claire_ludendorff_157
+  - first:
+      213: -850077083409178291
+    second: claire_ludendorff_158
+  - first:
+      213: 2284074978438877542
+    second: claire_ludendorff_159
+  - first:
+      213: 6065353184809645173
+    second: claire_ludendorff_160
+  - first:
+      213: -2595800649546550972
+    second: claire_ludendorff_161
+  - first:
+      213: 8256513303073800673
+    second: claire_ludendorff_162
+  - first:
+      213: -9194698621260372789
+    second: claire_ludendorff_163
+  - first:
+      213: -3547786424075557367
+    second: claire_ludendorff_164
+  - first:
+      213: 7702210103359195917
+    second: claire_ludendorff_165
+  - first:
+      213: -2084402317385918042
+    second: claire_ludendorff_166
+  - first:
+      213: -9218286770826769285
+    second: claire_ludendorff_167
+  - first:
+      213: -6088858073740350231
+    second: claire_ludendorff_168
+  - first:
+      213: 8443493680336222419
+    second: claire_ludendorff_169
+  - first:
+      213: 6812892507418110837
+    second: claire_ludendorff_170
+  - first:
+      213: -1011493556206493433
+    second: claire_ludendorff_171
+  - first:
+      213: -7187442015979970507
+    second: claire_ludendorff_172
+  - first:
+      213: 475529549486748777
+    second: claire_ludendorff_173
+  - first:
+      213: -7181849642908093446
+    second: claire_ludendorff_174
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: claire_ludendorff_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1068
+        width: 43
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245e811757d27ed43b6a63d632a447ab
+      internalID: -1894710709631004663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1068
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4431a335a763cb64087bd38cf956021e
+      internalID: 4362541135930808537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1068
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80ce59dd3ffbfe4faf132077514a4c5
+      internalID: -7714129595642852884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1068
+        width: 41
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91acf776fd78dfc43adfd39f6c075627
+      internalID: -5779101901266589221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1068
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2c4f5893ca65b479fac84501fe3658
+      internalID: 2298443146085456585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1068
+        width: 18
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b09d1d12cb5b28459ac1268af3ff4a0
+      internalID: -1276028999262754290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1069
+        width: 20
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458e1d0a7aabb664baf2e47a97b25ca3
+      internalID: -3069265634957932290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1069
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f08c626620a1a64ca15eb9a1c6756c2
+      internalID: 4480558336567910101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1069
+        width: 22
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596427e0611a52740b7bb1e13e441688
+      internalID: -8173226237111788245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_9
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1069
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b5e6ebd3cb8de47b7e2aa9aa4eca7a
+      internalID: -3090353198599319422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1070
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708b8b36eb979944a9f24adacdd07daa
+      internalID: -4724400302326121528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1069
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70df908f7bc7efd4d949c50b19f924a3
+      internalID: 1026945590009140806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_12
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1068
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134c9dd5f8deafa41b8060d5ebcd4403
+      internalID: 425761113686575103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_13
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1068
+        width: 42
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef58c19752bb9d4c8b0609dc09ef3a7
+      internalID: 3249336867372996939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_14
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1068
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e6bd83d2c14444b8936ee5ef70fa1b
+      internalID: -8492519712592631101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1011
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dbf2f346920514b9c67c26f617f0ff
+      internalID: 8171480282791257964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1011
+        width: 60
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0ea5bcf9ce13f439359f05b9556fc3
+      internalID: -2785591544487707480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1011
+        width: 59
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e78536ade4e804d8ae3aa299fecb09
+      internalID: 8576789256506343961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_18
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1011
+        width: 60
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7146b71c773c64a835bf267d7110e7
+      internalID: -2516890934090766115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1011
+        width: 60
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d603d3c14eaf644cb2da4f8241ab2de
+      internalID: -628678678909884549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1011
+        width: 60
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0a17ab6c36e864593a7ba5812a35f7
+      internalID: 7682316269142733331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1011
+        width: 60
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dc2a918a3cfb74081cb645d0ca0aee
+      internalID: -6009669824450305091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_22
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1011
+        width: 60
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03fe1a5ba4da2240ad2cf04ac5f6107
+      internalID: -5942912964714615217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1011
+        width: 60
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0818cec272f9cd4aa09e35f9fc4a464
+      internalID: -4002985097215728624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 938
+        width: 31
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a4625397e2edc48aa96a77be031216
+      internalID: 6409669274729605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 938
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39def554c8533e5448c4f5586312ec5a
+      internalID: 1897136161502294599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 938
+        width: 62
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d149974b3a21df488628abb1abb1acc
+      internalID: 4988840394252593606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 938
+        width: 62
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4166df2692bc2438e8da0d0dda7769
+      internalID: -8555987875632628695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 938
+        width: 62
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6679c337b394dec4699b67e3b089586b
+      internalID: 7751597654176788320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 938
+        width: 56
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfac5bdd316b9784492d8103dc85ddf3
+      internalID: -211809756022243830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_30
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 938
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eb54b0ab5032e498620c32ed8c5cae
+      internalID: -2139681920238737917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 938
+        width: 39
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8852906841dc330429ea07fe0b03d38c
+      internalID: 7641917395574732812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_32
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 938
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ecb506038f3240aed781af37c8638
+      internalID: 8771069960400715238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_33
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 938
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dba4b96d11d424eb68460f31b78435
+      internalID: 5069440103626455043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 938
+        width: 49
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e450dbbc9d9f52841b8c65945695b836
+      internalID: -2640915618331710764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_35
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 938
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b49334ce15203408142b9aa3db5c61
+      internalID: -7718474507259233933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 862
+        width: 35
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188723c52b7c86246aa476f5374ad35b
+      internalID: -9034794394721691724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 862
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946e626f9c84e304f9ebe7172e022c83
+      internalID: 4286272078654888042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_38
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 861
+        width: 39
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41f8615d50e0a344abf6f7325995818
+      internalID: -2178148537874669102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_39
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 862
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316d7da516b71cb4e87e1b3e0e725988
+      internalID: -625481240862489203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_40
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 862
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910222cabe75c3d44acb6168cb5ad281
+      internalID: 6269090287907945193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_41
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 862
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c321fdaf9c9041aa72636d413f4b0
+      internalID: 6564316505905025818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_42
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 862
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ae7dff5ab454b4faeeef732f5de586
+      internalID: 4961125700360501524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_43
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 862
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e9e6292f8deec4a9aa7ea4cc42be55
+      internalID: -319755567192032117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_44
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 862
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce92066971409a46aa7c5819da71a2d
+      internalID: -3467872155238635633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_45
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 862
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6935b25e6d5e20e47a40f11d343dc574
+      internalID: -8498136791565541698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_46
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 862
+        width: 30
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188c4e8445eb01145b3b7174c3bfc9d5
+      internalID: 4872838820475302155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_47
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 862
+        width: 45
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8b2f1b89d7c8b41b02531cd4ee80cf
+      internalID: -1439380206880603707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_48
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 862
+        width: 38
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b15cff5fd458749a69c3c29bb719ad
+      internalID: -1225232262585176710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_49
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 862
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906e50c01b79fff41b36d83bc286d9e1
+      internalID: 7167197897886160521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 793
+        width: 37
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c791ce604a9e12b47921a6eec49076ce
+      internalID: -2124831063959315761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_51
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 793
+        width: 32
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9659bccc39cc8488aacf735f0605fd
+      internalID: 7708633366203515164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 793
+        width: 56
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f529f6d340032943be3506028b93af1
+      internalID: 153153756377209715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 793
+        width: 57
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbd6e91a9d3b734fa3ee8125c7f4454
+      internalID: 1479866101038031672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_54
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 793
+        width: 58
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba4fe219a910574c876bd09cd215182
+      internalID: 4438627976728017219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 727
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256b13156b8e313429f48c2e8ed084d8
+      internalID: -7450847682986138026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 727
+        width: 49
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe0dc850b0cc68489a662c6eb1a120b
+      internalID: -8436791106698012854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 727
+        width: 49
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014ea376e0cc6c64392e7b94b14ab6b0
+      internalID: 2721303290891165401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_58
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 727
+        width: 50
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b94f7d9ac8f8824c81bd08c310ae190
+      internalID: -5380232129316893748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_59
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 727
+        width: 51
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3210e5a4c8b554095219b8945d0f4e
+      internalID: 3449930767655818833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_60
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 727
+        width: 50
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22696d2b01161864a9ed6132cac15564
+      internalID: -8075081603863547106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_61
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 727
+        width: 50
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f99367d4341a94b87de40917431d3f
+      internalID: 7104561534462110562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 727
+        width: 50
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bcc4ff6baf3e04aa52dcdf25117c53
+      internalID: -5807962482141948834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_63
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 727
+        width: 50
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a4a054a67059847b98cd8b9f25706d
+      internalID: 72425845571424099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_64
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 727
+        width: 50
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b057bbb4cdc5c7745aa17a23b7d8ffdd
+      internalID: 8116316774369377200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_65
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 727
+        width: 48
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fa346c2d00b564899e7d0462bc6507
+      internalID: 5530743274444870072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_66
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 727
+        width: 40
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e140b4cdfa2d8f4479bfabcab107e8eb
+      internalID: -387231432882221387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_67
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 665
+        width: 38
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0adb08aaf23de94f8afd24499c8ab90
+      internalID: -3844550352749233767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_68
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 665
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830c542bc718d0440afcce953e6717e4
+      internalID: 1196942976044776020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_69
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 665
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709b868fa29839d4aa37a69c7df45325
+      internalID: 2384418645044154472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_70
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 665
+        width: 43
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f93b23bf948f4fa37caa7384f3e7b
+      internalID: 3961721963193510466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 665
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb62c8deb0ee2469df1aa9782284c7
+      internalID: 5208813688712411560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_72
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 665
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d023b064942f714690ef6ec0c4c8002
+      internalID: -3792975644903387926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_73
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 665
+        width: 38
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68ddf7745396f240b6ff1f08fe4728f
+      internalID: -6100741310732077333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 605
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffdbd88834f62042a37a4246cf93db1
+      internalID: 5703523191314429788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_75
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 611
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2f30a42582e9041ad0bb516fa2ae54
+      internalID: 2668724916870018615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_76
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 611
+        width: 61
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f20c4aba758eb64e8b40561ef2eea55
+      internalID: 6179057562999687591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_77
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 611
+        width: 61
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bc3ee2934b58444b33aad5cc88d3a9
+      internalID: 5584076731934988159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_78
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 611
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d198975beaba4b4ea0b0478c5bcd87b
+      internalID: -3307147878810625962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_79
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 611
+        width: 42
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba404b57ed5c1d24784c94bb44f8331c
+      internalID: -2183881148834605125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_80
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 611
+        width: 42
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1b98382cab0cc4aa1ab7046acc50cc
+      internalID: -4959311739770384336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_81
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 611
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f87ef2d5d02f4f4581b595e6db9c649
+      internalID: -3195711711895344086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_82
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 611
+        width: 42
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135f287b2452c78449e6f7cd12d332a4
+      internalID: 1288341471149660935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_83
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 607
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416a45081fdeaee49ad0aa1840c6bc15
+      internalID: -4113377157181571913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_84
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 607
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76e06c450fdd7e429eabbc4550791c3
+      internalID: 4445826816778542388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_85
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 605
+        width: 42
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202cb63f41f010c47a534dc5a9dbd8da
+      internalID: 2051316163648072958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_86
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 605
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dae37fb0cceb074bb55b2030f3882fa
+      internalID: -7357395861813354948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_87
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 531
+        width: 30
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c690ec0797e78f44a10822d114c1ec3
+      internalID: 5330490749354674993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_88
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 539
+        width: 39
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6770080fab52ef469518d13332a2920
+      internalID: 2906973689914498414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_89
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 543
+        width: 27
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff589cd94464ed4bbe3aa50a0a88bb3
+      internalID: 3610379654618350575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_90
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 554
+        width: 47
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e88dc2cc3293434eb7651df8fe5419a
+      internalID: 2013261317434908665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_91
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 539
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268b57719c6d1124992b4d3e09d2f8a4
+      internalID: -5312898218913301421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_92
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 533
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0013f8323ff81f048b3f525bc4e0f602
+      internalID: 3985580800389772146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_93
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 533
+        width: 42
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d1998e7622d947b3831c3801bbfbc
+      internalID: 5869813820947789861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_94
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 468
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19694db1b0b91234fa10e623891c7633
+      internalID: -5028920633613303212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_95
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 468
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce160d0f33469a54985c17e47cf939f5
+      internalID: -3322773842642385082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 471
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454ef220cf65f6045a7acc7339174c2d
+      internalID: 7854445978819675137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_97
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 468
+        width: 85
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff4e49b799e61a42b51afeacc5a01b8
+      internalID: 5517429072449976493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_98
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 471
+        width: 84
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8271d79dcad9a458f1269e3dfa7534
+      internalID: 2662756717145367627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_99
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 470
+        width: 82
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbddfd11c754cc940b99ed379e1b8574
+      internalID: 1118935122250206596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_100
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 470
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560eea99d2796e34a9175447095b861b
+      internalID: -1007527870228753528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_101
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 507
+        width: 26
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b729671c53b65349ade47a808951fa7
+      internalID: -6062130730736937676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_102
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 471
+        width: 74
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d9c0f7d02c0ac49a2d2f80c916b625
+      internalID: -3146701253998773045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_103
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 471
+        width: 63
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103d3b99c9987204598eefb3d385600c
+      internalID: 6260503135647496849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_104
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 468
+        width: 36
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bc6652c2b5bab45a71ea4f2aa39c28
+      internalID: -4564701469289180751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_105
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 500
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a82375425a06b45a81fc3ef05eb234
+      internalID: 7223919406262129776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_106
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 407
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d3418e676fd39499adce16549df5c1
+      internalID: 5451836234838916964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_107
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 407
+        width: 51
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aad98c281b642e4099d1d9fa9d96c5d
+      internalID: -2354186553205712263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_108
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 407
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43a237cd4e11b84fa4dc38f9d2bae83
+      internalID: 7679384025143599620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_109
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 424
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6797ff6b5712e5543a9720110aafef56
+      internalID: 3926815836565165988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_110
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 407
+        width: 33
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6962b25ed5b7a0c4ba37c8c1c684f433
+      internalID: 157632625097146277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_111
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 407
+        width: 46
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85974a6d714f58d43b988e5df2521d98
+      internalID: -921601007994257391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_112
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 407
+        width: 47
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213bef326367f734083ae4bc0e0cf64d
+      internalID: 6991643737004203945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_113
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 407
+        width: 48
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f20e9b2ea06be74fa1e49caf81b59ef
+      internalID: -9200577556899291657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_114
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 407
+        width: 50
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1378e274f49a6a842ab9d512a42402a1
+      internalID: 3410634707992861525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_115
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 407
+        width: 40
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7361c760a2afc5449b165a45df8e5b5e
+      internalID: 4935862035163784803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_116
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 332
+        width: 24
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e1af82559d02349bcc681a63c0546f
+      internalID: -5464580886495543866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 332
+        width: 50
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97b7c8a42ed43448a7be111ad6d6e80
+      internalID: 2025189940711087856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_118
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 332
+        width: 35
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29d5d755c9396e409ea243e5f720cc0
+      internalID: -7952714559204976002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_119
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 332
+        width: 47
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e208c6a452c6d4787f8f35d5065c68
+      internalID: -8029829381532044952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_120
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 378
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b77bcac91786c449845e1d629b98ad
+      internalID: 4084808162448255319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_121
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 384
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a42510966b4d34689f9b4d546b79f7
+      internalID: -673451028466927973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_122
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 332
+        width: 31
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e6af234851b9f4191b3279f897e9a7
+      internalID: 5584263690718824818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_123
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 332
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6a18aaeb8ab75428c80f74dcc2c064
+      internalID: 1156760997485072681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_124
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 332
+        width: 67
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004dba4e325ae554a956ef3229f3a8f6
+      internalID: -2769625636306247149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_125
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 332
+        width: 74
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536d65d2e2ee8de4e9be1e88bb57c78a
+      internalID: 136036812377964159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_126
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 332
+        width: 81
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294bb3fb31e9cfe40a2c8f0626a26fb7
+      internalID: -3064585312792696684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_127
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 332
+        width: 82
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5e4c2f6302ff0488ea685ead5405bb
+      internalID: -2757710641879862383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_128
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 83
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cc66e8e0c002f4691ff0e9f8397627
+      internalID: 2574915325462454539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_129
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 255
+        width: 84
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6561bfcaeb5853c409dc3dac51a8e181
+      internalID: -3563466338868839419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_130
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 255
+        width: 83
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8318f85995bc6e8428ca03f356b909dc
+      internalID: -7058516815177049233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_131
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 255
+        width: 85
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bbcaec6cbc0a940be3eb8e81be12cb
+      internalID: 2841498172933116556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_132
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 255
+        width: 86
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9b6bc4f6e550c4b9fcc77c429c7cef
+      internalID: 2473713763364291612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_133
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 255
+        width: 62
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b33857d1834e2849bc0d36f033c5598
+      internalID: 476863719722424806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_134
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 256
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02dcd706b7a7f540957f8dcb423b147
+      internalID: -2717537711480441793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_135
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 155
+        width: 38
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e74a38e69a9eb84c8224802c0ab4ef1
+      internalID: 8519348212725097851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_136
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 160
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13615dab4cb7f845817462f589a1bc5
+      internalID: 9173810849182758585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_137
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 154
+        width: 42
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f118a0000deb2a4188e9d4ace1386fb
+      internalID: -4872321759788938328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_138
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 154
+        width: 42
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590dc75a6cf7b53479ac46c9043e192e
+      internalID: -8981423893689562446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_139
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 154
+        width: 44
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f960a6e1eac71946a3e7956e33e4a37
+      internalID: 4541400638709094305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_140
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 154
+        width: 52
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cf8e2ed114f5c45a3378a9cb959ad6
+      internalID: 1512240633710939144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_141
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 154
+        width: 52
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced385994e6598341bb4bd9c006b573f
+      internalID: 5986899783837963494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_142
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 154
+        width: 49
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e853fe51046b7a1489d96d7e68ef001e
+      internalID: 8409871272632214236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_143
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 154
+        width: 52
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c798a1a81d9e40240b3229dbfd08a5a6
+      internalID: -7552173706327528352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_144
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 154
+        width: 59
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5144d08733d974386eb7dc62fe1513
+      internalID: -3699301413602523055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_145
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 154
+        width: 61
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee68f706cbacdeb48b0e4aba8da891ee
+      internalID: 6772256289104889096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_146
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 154
+        width: 65
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72b68f5ac4354f4bbd823f3ae3c14be
+      internalID: 1556341729112243704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_147
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 154
+        width: 68
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39986914c38edd14c8ea680521f94a87
+      internalID: -5290549603564189563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_148
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 154
+        width: 74
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de74538838b61d947b878c333ef5eaf3
+      internalID: -6394074519520642300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_149
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 102
+        width: 73
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71c6864d4af1af4b94017c2001d5033
+      internalID: -6664312736275578523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_150
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 105
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d39252f0691d8a48819d947c0447cf0
+      internalID: -9141837340740409053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 104
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b76523e55df19b45b43da368a39ffdb
+      internalID: -363616329252673801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_152
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 102
+        width: 42
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b80e545392e3b41acf86a01c323a0b
+      internalID: 5993361219087112331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_153
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 126
+        width: 81
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d757df0f40bbb47458f1d861f866651d
+      internalID: 7651070319653262029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_154
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 126
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96fc1a6889430b418a3811fbfd903b3
+      internalID: 1773213177375823739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_155
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 102
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1134ab6e68fe63f4daf8cef1e2e4fd83
+      internalID: -2492162412877730341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_156
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 102
+        width: 17
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dd8cc58042ebd4eab16f21177b7919
+      internalID: -1141277913918718105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_157
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 75
+        width: 132
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80077e717481f544eaeef96acf12c056
+      internalID: 7115527715202967676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_158
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 29
+        width: 72
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264b7d00f952920428c431a96d861900
+      internalID: -850077083409178291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_159
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 42
+        width: 43
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd07f7635e417e4e9deaea156793db7
+      internalID: 2284074978438877542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_160
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 42
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd240a01977f614b8276cfcd28dcd93
+      internalID: 6065353184809645173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_161
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 42
+        width: 37
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94860365d84812e489377728cfa2bd83
+      internalID: -2595800649546550972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_162
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 42
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d797588d2d60f4897fa0709317c9d7
+      internalID: 8256513303073800673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_163
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 49
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33772b07a0cb63848b8d96879a7d43c8
+      internalID: -9194698621260372789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_164
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 47
+        width: 47
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d236795aec7d1054eaf5a8229a85a539
+      internalID: -3547786424075557367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_165
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 47
+        width: 46
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7230089870ade644bdce4edd121d4a8
+      internalID: 7702210103359195917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_166
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 42
+        width: 33
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7483a10c5d0ab0247971b598193f6a5b
+      internalID: -2084402317385918042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_167
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 42
+        width: 35
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1226d8a6c01686438b97e4c265f2f50
+      internalID: -9218286770826769285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_168
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 42
+        width: 42
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4056afe894e9ca248addc4e2a8e61932
+      internalID: -6088858073740350231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_169
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 42
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0da6a1e66adc4c8efd1e1b6262e07
+      internalID: 8443493680336222419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_170
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 44
+        width: 25
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a217cceddb73d5b4eacca37b2efcb6cc
+      internalID: 6812892507418110837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_171
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 43
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b3a542eddb0b541b5df1ebfec8f274
+      internalID: -1011493556206493433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_172
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 43
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ca14dc7c54d4345b7608a700095272
+      internalID: -7187442015979970507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_173
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 42
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f2f82833cff9b4492981c72456b232
+      internalID: 475529549486748777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claire_ludendorff_174
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 29
+        width: 79
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de7372bfa5460d44a679a60b94346f5
+      internalID: -7181849642908093446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
